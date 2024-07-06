@@ -43,7 +43,7 @@ Warning ðŸš¦ This Tool Formates (Permanent WhatsApp Otp Lock) So think and U
 ## USAGE OPTIONS [Termux] :
 
 
-### If there is an issue in this tool, report [here](https://github.com/flashsanu
+### If there is an issue in this tool, report [here](https://github.com/flashanish
 /I_Picker/issues)
 
 <p style="color:purple"><b>Connect With Us:</b></p>
