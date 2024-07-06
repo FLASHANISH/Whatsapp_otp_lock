@@ -21,7 +21,7 @@ def otp_lock_banner():
 ─▀▀▀▄▄ █──█ █──█ █▄▄▀ █▀▀ █─▀─█ █▀▀ 
 ░█▄▄▄█ ─▀▀▀ █▀▀▀ ▀─▀▀ ▀▀▀ ▀───▀ ▀▀▀
 [bold {color}]●[bold {colors[(colors.index(color) + 1) % len(colors)]}] ●[bold {colors[(colors.index(color) + 2) % len(colors)]}] ======================================================
-[bold white][[bold red]^[bold white]] [bold green] Author: supreme \n[bold white][[bold red]^[bold white]] [bold green] Github: github.com/flashsanu \n[bold white][[bold red]^[bold white]] [bold green] Whatsapp: https://whatsapp.com/channel/0029VaAWr3x5PO0y7qLfcR26
+[bold white][[bold red]^[bold white]] [bold green] Author: supreme \n[bold white][[bold red]^[bold white]] [bold green] Github: github.com/flashanish \n[bold white][[bold red]^[bold white]] [bold green] Whatsapp: https://whatsapp.com/channel/0029VaAWr3x5PO0y7qLfcR26
 [bold {color}] [bold {colors[(colors.index(color) + 1) % len(colors)]}] [bold {colors[(colors.index(color) + 2) % len(colors)]}]===================================================== ''', title="[bold red] Created By supreme", style=color)
         console.print(panel)
         time.sleep(0.5)
