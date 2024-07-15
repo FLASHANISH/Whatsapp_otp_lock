@@ -30,7 +30,7 @@ Warning ðŸš¦ This Tool Formates (Permanent WhatsApp Otp Lock) So think and U
 * `git clone https://github.com/FLASHANISH/Whatsapp_otp_lock`
 * `cd $HOME`
 * `ls`
-* `cd Whatsapp_otp_lock
+* `cd Whatsapp_otp_lock`
 * `pip install requests`
 * `pip install rich`
 * `ls`
